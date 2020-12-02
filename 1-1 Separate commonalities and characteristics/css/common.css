@@ -1,0 +1,12 @@
+/*Common CSS*/
+	.container { 
+		width: 1200px;
+		margin: 0 auto;
+	}
+	a.link { 
+		color: #4d555d;
+	}
+	a.link:hover {   
+		color: #f01414 !important;
+	}
+	
